@@ -1,0 +1,8 @@
+.terraform.lock.hcl
+.terraform/
+prasad-key.pem
+provider.tf
+terraform.tfstate
+terraform.tfstate.backup
+PY-AWS-TERRA-2TIER.docx
+LICENSE
