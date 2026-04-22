@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: terraform-aws-terra-python-code1
+        working-directory: terraform-aws-terra-python-code
 
     steps:
 
